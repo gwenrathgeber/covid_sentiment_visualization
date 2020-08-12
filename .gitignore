@@ -1,7 +1,9 @@
-*.html
 <<<<<<< HEAD
+*.html
 *.csv
 *.jsonl
+*.log
+.ipynb_checkpoints
 =======
 *.csv
 >>>>>>> 3d85e9f6a7a3c4e440be3257a2a33a8d1787fd9a
