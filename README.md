@@ -67,4 +67,4 @@ https://github.com/DocNow/twarc
 - Everything You Need to Know About Sentiment Analysis: https://monkeylearn.com/sentiment-analysis/
 - Twitter Sentiment Analysis with Python and NLTK: http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
 - Is it possible to do sentiment analysis of unlabelled text using word2vec model?: https://stackoverflow.com/questions/61185290/is-it-possible-to-do-sentiment-analysis-of-unlabelled-text-using-word2vec-model
-- https://stackoverflow.com/questions/35371043/use-python-requests-to-download-csv
+- Making a request to download csv: https://stackoverflow.com/questions/35371043/use-python-requests-to-download-csv
