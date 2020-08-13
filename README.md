@@ -41,9 +41,9 @@ The sentiment analysis data is then mapped using the geo-tagged information from
 - [References](#References)
 
 ### Software Requirements 
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [TextBlob](https://textblob.readthedocs.io/en/dev/)
-- [TWARC API](https://textblob.readthedocs.io/en/dev/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) (Twitter Scraping)
+- [TextBlob](https://textblob.readthedocs.io/en/dev/) (Twitter Sentiment Analysis Model)
+- [TWARC API](https://textblob.readthedocs.io/en/dev/) (Tweet Hydration)
 
 ### Datasets
 Dataset used for the project can be found:
