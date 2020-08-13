@@ -30,7 +30,7 @@ The sentiment analysis data is then mapped in Tableau using the geo-tagged infor
 
 ### Table of Contents 
 
-- [Problem Statement](#Problem-Statement]
+- [Problem Statement](#Problem-Statement)
 - [Executive Summary](#Executive-Summary)
 - [Data Dictionary](#Data-Dictionary)
 - [Package Import](#Package-Import)
