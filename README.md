@@ -52,7 +52,7 @@ Dataset used for the project can be found:
 
 ## Visualization
 
-![](../assets/coronavirus_sentiment_timelapse_w_legend.gif)
+![Tweet Sentiment Timelapse](../assets/coronavirus_sentiment_timelapse_w_legend.gif)
 
 ## Conclusion and Recommendations 
 In this project, we analyzed the sentiments of COVID-19-related tweets in several ways. The overall trend shows that the public has been more optimistic over time. Digging into the dual-dimensional sentiment analysis we conducted, we found that the sentiment “Positive” went down initially and towards the end, and “Negative” went up through the height of the pandemic. We were also able to see the respective sentiment consensus by state. Our results reflect the general reaction of the 'first wave' of the pandemic and the political climate during this time. 
