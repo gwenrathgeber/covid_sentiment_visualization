@@ -54,7 +54,12 @@ Dataset used for the project can be found:
 
 ---
 ## Conclusion and Recommendations 
- 
+In this project, we analyzed the sentiments of COVID-19-related tweets in several ways. The overall trend shows that the public has been more optimistic over time. Digging into the dual-dimensional sentiment analysis we conducted, we found that the sentiment “Positive” went down initially and towards the end, and “Negative” went up through the height of the pandemic. We were also able to see the respective sentiment consensus by state. Our results reflect the general reaction of the 'first wave' of the pandemic and the political climate during this time. 
+
+The fight against COVID-19 not only needs the guidance from the government but also a positive attitude from the public. Our analysis provides a potential approach to reveal the public’s sentiment status and help institutions respond timely to it.
+
+Our analysis has shown some relationships between geographic data 
+and the general sentiments of the state during the pandemic. Moving forward, introducing more granular data such confirmed cases' growth and adding additional dimensionality to our sentiment analysis would help provide a more comprehensive picture. Allowing us to generate more insights into hardest-hit areas, demographic of those affected; enabling institutions and government to take affirmative action based on this valuable information. 
 
 ## References
 
