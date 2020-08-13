@@ -38,6 +38,20 @@ Dataset used for the project can be found:
 
 #### Data Dictionary 
 
+| Features       | Type    | Description                                        |
+|----------------|---------|----------------------------------------------------|
+| full_text      | object  | full text of the tweet                             |
+| id             | float64 | tweet id                                           |
+| date           | object  | date tweet was posted                              |
+| city           | object  | city from which tweet was posted                   |
+| country_code   | object  | country code from which related tweet was posted   |
+| country        | object  | country corresponding to country code              |
+| coordinates    | object  | latitude and longitudinal values of tweet location |
+| state          | object  | state from which tweet was posted                  |
+| classification | object  | overall tweet sentiment (positive or negative)     |
+| p_pos          | float64 | proportion of positive sentiment                   |
+| p_neg          | float64 | proportion of negative sentiment                   |
+
 ---
 ## Conclusion and Recommendations 
  
