@@ -28,6 +28,16 @@ A sentiment analysis was then conducted using TextBlob, determining the polarity
 
 The sentiment analysis data is then mapped using the geo-tagged information from these tweets to build a visual timeline of the country's overall sentiment on COVID-19. This opens up the ability for us to view the public's response on the events that unfold throughout the current pandemic. It also allows us to dive into deeper issues regarding response times and help us make better decisions in health policymaking especially in the event of the pandemic. 
 
+- [Data Dictionary](#Data-Dictionary)
+- [Package Import](#Package-Import)
+- [Scraping COVID-19 Geo Tagged Tweet URLs](#Scraping-COVID-19-Geo-Tagged-Tweet-URLs)
+- [Hydrating Tweets using TWARC API](#Hydrating-Tweets-using-TWARC-API)
+- [Unsupervised Sentiment Analysis](#Unsupervised-Sentiment-Analysis)
+    - [Analyzing Twitter Data](#Analyzing-Twitter-Data) 
+    - [Visualizing Twitter Data](#Visualizing-Twitter-Data)
+- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+- [References](#References)
+
 ### Datasets
 Dataset used for the project can be found:
 [here](https://ieee-dataport.org/open-access/coronavirus-covid-19-geo-tagged-tweets-dataset)
