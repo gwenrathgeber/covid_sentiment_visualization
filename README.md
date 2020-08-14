@@ -32,13 +32,10 @@ The sentiment analysis data is then mapped in Tableau using the geo-tagged infor
 
 - [Problem Statement](#Problem-Statement)
 - [Executive Summary](#Executive-Summary)
+- [Software Requirements](#Software-Requirements)
+- [Dataset](#Dataset)
 - [Data Dictionary](#Data-Dictionary)
-- [Package Import](#Package-Import)
-- [Scraping COVID-19 Geo Tagged Tweet URLs](#Scraping-COVID-19-Geo-Tagged-Tweet-URLs)
-- [Hydrating Tweets using TWARC API](#Hydrating-Tweets-using-TWARC-API)
-- [Unsupervised Sentiment Analysis](#Unsupervised-Sentiment-Analysis)
-    - [Analyzing Twitter Data](#Analyzing-Twitter-Data) 
-    - [Visualizing Twitter Data](#Visualizing-Twitter-Data)
+- [Visualization](#Visualization)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 - [References](#References)
 
