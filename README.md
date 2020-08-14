@@ -35,7 +35,7 @@ The sentiment analysis data is then mapped in Tableau using the geo-tagged infor
 - [Software Requirements](#Software-Requirements)
 - [Dataset](#Dataset)
 - [Data Dictionary](#Data-Dictionary)
-- [Data Prep Notebook](https://git.generalassemb.ly/gwenrathgeber/project_5/blob/master/code/project_5.ipynb)
+- [Project Notebook](https://git.generalassemb.ly/gwenrathgeber/project_5/blob/master/code/project_5.ipynb)
 - [Visualization](#Visualization)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 - [References](#References)
