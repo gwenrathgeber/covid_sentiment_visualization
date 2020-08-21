@@ -74,7 +74,7 @@ The datataset used for the project can be found [here.](https://ieee-dataport.or
 
 We used Tableau to create the visualization, a timelapse of the four previous days rolling average sentiment by state. [You can view or download it yourself on Tableau Public.](https://public.tableau.com/views/COVIDTwitterSentimentVisualization/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
-![Tweet Sentiment Timelapse](https://git.generalassemb.ly/gwenrathgeber/project_5/blob/master/assets/coronavirus_sentiment_timelapse_w_legend.gif)
+![Tweet Sentiment Timelapse](https://github.com/gwenrathgeber/covid_sentiment_visualization/blob/master/assets/coronavirus_sentiment_timelapse_w_legend.gif)
 
 ## Conclusion and Recommendations 
 In this project, we analyzed the sentiments of COVID-19-related tweets in several ways. The overall trend shows that the public was initially optimistic, got much less cheerful in mid-April, then trended somewhat more positive throughout future months. We were also able to see the overall sentiment by state. You can especially track the major decrease in positive sentiment in NY and surrounding states after the pandemic reached its peak case load. Interestingly, there is not much of a visible decrease in sentiment over the course of the larger and more wide-spread second wave in our data.
