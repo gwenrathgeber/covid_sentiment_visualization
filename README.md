@@ -1,4 +1,4 @@
-# ![ga_logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)Project 5: Sentiment Analysis of COVID-19-related Tweets
+# Sentiment Analysis of COVID-19-related Tweets
 
 #### Eu Jin Lee [GitHub](https://github.com/missingNA) [LinkedIn](https://www.linkedin.com/in/eeujinlee/)  
 
